@@ -1,0 +1,50 @@
+{
+  "id": "8017261e-7106-4ed6-8a67-3921e059bc6c",
+  "name": "Admission_process?",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "admission_process",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "5e5fc29a-3aec-412a-92b4-abd13265967e",
+          "required": false,
+          "dataType": "@about",
+          "name": "about",
+          "value": "$about",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": "link_out_chip",
+          "platform": "google",
+          "lang": "en",
+          "destinationName": "JAC Delhi",
+          "url": "http://www.jacdelhi.nic.in"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Admission  to  B.Tech.  Program  will  be  based  on  All  India  Rank  prepared by CBSE   based   on   performance   of   candidate   in   Paper-1   of   JEE   (Main) Examination and  also  the candidate  must  be  declared  eligible  for  Central Counseling by the CBSE. Visit the following link for detailed information.( http://www.jacdelhi.nic.in )",
+            "The  admission  to  B.Tech.  program  will  be  done  through  Joint  Admission Counseling  (jointly  organized  for  DTU,  NSIT,  IIITD  \u0026  IGDTUW).  For  more details refer to JAC website ( http://www.jacdelhi.nic.in )."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": false
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518786378,
+  "fallbackIntent": false,
+  "events": []
+}

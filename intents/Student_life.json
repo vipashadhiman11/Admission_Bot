@@ -1,0 +1,38 @@
+{
+  "id": "650e6eb0-98bc-44c3-b51a-fe3a3007feab",
+  "name": "Student_life",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "student_life",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "ab1fb843-ac09-4314-8247-68564d625261",
+          "required": false,
+          "dataType": "@about",
+          "name": "about",
+          "value": "$about",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Students lead a very joyful life in this university with a lot of facilities like Technical and Cultural Festivals, Technical Societies, Clubs, Hostels, Sports and many more.There is a Library, Dispensary, Computer Center, Bank, Guest House, Hostel, Common Room, Gym, wifi, stationary,canteen etc for the students to enjoy their college life."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518795924,
+  "fallbackIntent": false,
+  "events": []
+}

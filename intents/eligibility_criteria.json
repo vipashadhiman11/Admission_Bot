@@ -1,0 +1,38 @@
+{
+  "id": "aeb28839-9cb4-4c30-a51f-4f4de133633c",
+  "name": "eligibility_criteria",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "eligibility_criteria",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "14492fd1-725d-4c28-a24d-9576c01ec527",
+          "required": false,
+          "dataType": "@about",
+          "name": "about",
+          "value": "$about",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "A  candidate  passing  12th examinations  from  a  recognized School/College/Institute and securing 60% or more marks in the aggregate in Physics, Chemistry  and  Mathematics,  and  must  have  passed  English  as  a subject  of  study  of the  Senior  School  Certificate  Examination  Level  (Core  or Elective)  shall  be  eligible  for admission  to  the  first  semester  of  Bachelor of Technology Course provided she has passed in each subject separately."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518629410,
+  "fallbackIntent": false,
+  "events": []
+}

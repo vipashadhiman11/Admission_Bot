@@ -1,0 +1,32 @@
+{
+  "id": "8240675f-9031-4cbe-a433-5e7f9b3952c6",
+  "name": "negative-actions",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "negative-actions",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Oh! I am sorry! How can I help you?",
+            "Can I help you?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518344786,
+  "fallbackIntent": false,
+  "events": []
+}

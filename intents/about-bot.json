@@ -1,0 +1,32 @@
+{
+  "id": "ac145dd5-50db-438e-9ea6-ec85abc3429e",
+  "name": "about-bot",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "about_bot_action",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "I am Admission Bot. I am here to answer all your queries about this college and admission process.",
+            "I am Admission bot. I will provide you all the details required for getting into IGDTUW."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518634799,
+  "fallbackIntent": false,
+  "events": []
+}

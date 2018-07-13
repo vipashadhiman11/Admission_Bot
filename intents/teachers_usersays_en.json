@@ -1,0 +1,138 @@
+[
+  {
+    "id": "289b4900-76fa-473d-b5e4-53f90b3d14d4",
+    "data": [
+      {
+        "text": "teachers",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518795988
+  },
+  {
+    "id": "8f8cd325-e175-41db-b36a-b594600c2037",
+    "data": [
+      {
+        "text": "how is the faculty",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518795988
+  },
+  {
+    "id": "ef8f0899-e408-45ce-8739-61c340851381",
+    "data": [
+      {
+        "text": "are teachers good in ",
+        "userDefined": false
+      },
+      {
+        "text": "igdtu",
+        "alias": "about",
+        "meta": "@about",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518795988
+  },
+  {
+    "id": "b6e2750b-3bfa-43ac-b157-c3ba2f9133e7",
+    "data": [
+      {
+        "text": "how are the teachers of ",
+        "userDefined": false
+      },
+      {
+        "text": "igdtuw",
+        "alias": "about",
+        "meta": "@about",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518795988
+  },
+  {
+    "id": "3b528e2d-1516-4c6c-b089-a1d561815bd8",
+    "data": [
+      {
+        "text": "faculty",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518795988
+  },
+  {
+    "id": "4f6166bf-7c74-4f1e-9c15-4a3ad63b1362",
+    "data": [
+      {
+        "text": "are teachers good in igdtu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518795988
+  },
+  {
+    "id": "a5fceddd-c769-4671-b92a-a1aa7a8e2aec",
+    "data": [
+      {
+        "text": "are teachers good in igdtu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518795988
+  },
+  {
+    "id": "47af0f09-7c26-4e86-a61d-8250bd140418",
+    "data": [
+      {
+        "text": "how is the faculty of ",
+        "userDefined": false
+      },
+      {
+        "text": "igdtuw",
+        "alias": "about",
+        "meta": "@about",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518795988
+  },
+  {
+    "id": "ce16b882-38ef-40ac-a1c2-95c49fb4b965",
+    "data": [
+      {
+        "text": "teachers of ",
+        "userDefined": false
+      },
+      {
+        "text": "igdtuw",
+        "alias": "about",
+        "meta": "@about",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518795988
+  }
+]

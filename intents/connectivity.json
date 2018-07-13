@@ -1,0 +1,38 @@
+{
+  "id": "7220118e-06c7-4849-a302-ac5bd967d710",
+  "name": "connectivity",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "connectivity",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "6ccda0f0-aff4-45fc-b3c9-2b6984969eb8",
+          "required": false,
+          "dataType": "@about",
+          "name": "about",
+          "value": "$about",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Nearest Airport : Indira Gandhi International Airport, Delhi\nDistance from Airport : 23km                                                                                                                     Nearest Railway Station : New Delhi Railway Station\nDistance from Railway Station : 8km\nNext Nearest Railway Station : Hazrat Nizamuddin Railway Station\nDistance from Railway Station : 11km                                                                                                                  Nearest Metro Station : Kashmere Gate Metro Station\nTake the exit Gate 7 from the Kashmere Gate metro station and follow the path."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518782824,
+  "fallbackIntent": false,
+  "events": []
+}

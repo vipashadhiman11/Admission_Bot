@@ -1,0 +1,227 @@
+[
+  {
+    "id": "d87f6692-4a36-4401-a329-c64a1d17bd20",
+    "data": [
+      {
+        "text": "please show me the last year\u0027s rank information",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b13e357b-ec43-45fc-a9d9-ea19da82b9ca",
+    "data": [
+      {
+        "text": "tell me the admission process",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518786378
+  },
+  {
+    "id": "92a3635a-cc06-41b2-a188-e5f44614d04f",
+    "data": [
+      {
+        "text": "do we get internship from college side",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ad821cd0-b4dc-4ecd-a51d-4bb29d8a96a1",
+    "data": [
+      {
+        "text": "admission process",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518786378
+  },
+  {
+    "id": "07c2c11f-f739-49df-b3ad-3c710cbdad83",
+    "data": [
+      {
+        "text": "please show me ",
+        "userDefined": false
+      },
+      {
+        "text": "the last year\u0027s",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " rank information",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518786378
+  },
+  {
+    "id": "d2522cd1-a31d-4b73-a807-e5fb7e7e7e7e",
+    "data": [
+      {
+        "text": "what is the cutoff for computer science engineering",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518786378
+  },
+  {
+    "id": "da975ebf-04a0-47ff-92c4-2fd778843520",
+    "data": [
+      {
+        "text": "can you tell me the admission process?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518786378
+  },
+  {
+    "id": "4dd0115c-0db2-4063-9fc0-2d6ef16979fd",
+    "data": [
+      {
+        "text": "do we get internship from ",
+        "userDefined": false
+      },
+      {
+        "text": "college",
+        "alias": "about",
+        "meta": "@about",
+        "userDefined": false
+      },
+      {
+        "text": " side",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518786378
+  },
+  {
+    "id": "6acaa8af-d699-4b58-a343-cf07bcffbd38",
+    "data": [
+      {
+        "text": "admission?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518786378
+  },
+  {
+    "id": "7e8e92a8-924f-4dea-a7f3-52ffdea9b1fc",
+    "data": [
+      {
+        "text": "are there internship facilities in igdtu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fbd48156-348f-45dc-81b2-58877c676052",
+    "data": [
+      {
+        "text": "how can we take admission in this ",
+        "userDefined": false
+      },
+      {
+        "text": "college",
+        "alias": "about",
+        "meta": "@about",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518786378
+  },
+  {
+    "id": "8a0ad9a6-e99e-4fd5-93bd-62a473441436",
+    "data": [
+      {
+        "text": "what is the admission process of this ",
+        "userDefined": false
+      },
+      {
+        "text": "college",
+        "alias": "about",
+        "meta": "@about",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518786378
+  },
+  {
+    "id": "ed69872e-aab4-4557-9264-2e0ee310aea2",
+    "data": [
+      {
+        "text": "what is the cutoff for computer science engineering",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "067d51ea-9d07-4d7a-9b9f-58da818c6952",
+    "data": [
+      {
+        "text": "are there internship facilities in ",
+        "userDefined": false
+      },
+      {
+        "text": "igdtu",
+        "alias": "about",
+        "meta": "@about",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518786378
+  },
+  {
+    "id": "73f3e4d3-477d-462b-ae5d-8a81d1da56a0",
+    "data": [
+      {
+        "text": "can i know the admission process please?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518786378
+  }
+]

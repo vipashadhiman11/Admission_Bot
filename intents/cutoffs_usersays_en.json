@@ -1,0 +1,44 @@
+[
+  {
+    "id": "fe339ec8-12f8-48c7-a75b-7e19d4d67918",
+    "data": [
+      {
+        "text": "what is the cutoff?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518782141
+  },
+  {
+    "id": "23ca4b6d-2fcb-40a5-9269-34c4bb905755",
+    "data": [
+      {
+        "text": "cutoff",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518782141
+  },
+  {
+    "id": "e90d5367-7cc2-4c98-b6d6-83bf7c4798e6",
+    "data": [
+      {
+        "text": "can I get admission if my rank is ",
+        "userDefined": false
+      },
+      {
+        "text": "28000",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

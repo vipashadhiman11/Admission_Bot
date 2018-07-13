@@ -1,0 +1,38 @@
+{
+  "id": "2c9e549d-bcc9-479b-8e2c-517360db0ccd",
+  "name": "fees",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "fees_action",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "b955a915-0a02-469b-b756-549965113894",
+          "required": false,
+          "dataType": "@about",
+          "name": "about",
+          "value": "$about",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "B.tech: Total (per Annum)\t₹75,000                                                                                                                        B.Arch: Total (per Annum)\t₹90,000                                                                                                                                                   Hostel Fees:Total (per Annum) \t₹54,000"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518795668,
+  "fallbackIntent": false,
+  "events": []
+}

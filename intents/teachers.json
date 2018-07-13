@@ -1,0 +1,41 @@
+{
+  "id": "e828552c-002d-46dd-8521-cf6d8e82fa4f",
+  "name": "teachers",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "teachers-action",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "cc693820-daf0-4df0-8add-e0939e837ae3",
+          "required": false,
+          "dataType": "@about",
+          "name": "about",
+          "value": "$about",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "teachers of igdtuw are good.you can check the following link to know more about the teachers.( http://www.igdtuw.ac.in/index.php?option\u003dcom_content\u0026view\u003darticle\u0026id\u003d176\u0026Itemid\u003d651)",
+            "faculty of igdtuw are pretty good. check this link( http://www.igdtuw.ac.in/index.php?option\u003dcom_content\u0026view\u003darticle\u0026id\u003d176\u0026Itemid\u003d651 )"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518795988,
+  "fallbackIntent": false,
+  "events": []
+}

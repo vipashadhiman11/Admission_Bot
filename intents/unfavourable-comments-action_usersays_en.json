@@ -1,0 +1,20 @@
+[
+  {
+    "id": "46b603eb-9280-489b-92d0-47a0f25ae8ca",
+    "data": [
+      {
+        "text": "you are ",
+        "userDefined": false
+      },
+      {
+        "text": "stupid",
+        "alias": "stupid",
+        "meta": "@stupid",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518344354
+  }
+]

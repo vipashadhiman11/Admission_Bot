@@ -1,0 +1,37 @@
+{
+  "id": "6fd619f2-6c9b-4795-b5e5-19b03cd5ef3a",
+  "name": "seat_matrix",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "seat-matrix-action",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "74d2d525-03b1-4bfa-bb69-5deae1d0f873",
+          "dataType": "@about",
+          "name": "about",
+          "value": "$about",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "https://jacdelhi.nic.in/"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518782715,
+  "fallbackIntent": false,
+  "events": []
+}

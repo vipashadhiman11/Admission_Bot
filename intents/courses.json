@@ -1,0 +1,40 @@
+{
+  "id": "88242bf8-b9d5-4a9e-aac5-ae2cc7f0b4d1",
+  "name": "courses",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "course_action",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "812bc555-2e20-47ef-a7f6-1ab46ec87926",
+          "required": false,
+          "dataType": "@about",
+          "name": "course",
+          "value": "$course",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "There are courses like B.Tech, M.Tech, MCA and P.hd. B.Arch is a newly added course.  It started in 2015."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518347797,
+  "fallbackIntent": false,
+  "events": []
+}

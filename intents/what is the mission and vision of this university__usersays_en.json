@@ -1,0 +1,48 @@
+[
+  {
+    "id": "d747d943-2dbe-4143-88c5-7e48e7d63f49",
+    "data": [
+      {
+        "text": "what is its main mission",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b8312c0e-2356-4387-9033-6dfa5c9547ed",
+    "data": [
+      {
+        "text": "what is its mission",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0c1325fd-913f-43a4-bc18-80a07ff21d9d",
+    "data": [
+      {
+        "text": "what is the mission and vision of this ",
+        "userDefined": false
+      },
+      {
+        "text": "university",
+        "alias": "about",
+        "meta": "@about",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518637092
+  }
+]

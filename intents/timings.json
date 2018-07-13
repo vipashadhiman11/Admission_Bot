@@ -1,0 +1,37 @@
+{
+  "id": "457ed60d-e2d3-485d-91a3-fc06863754b9",
+  "name": "timings",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "timings.",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "ba1de366-bd9a-4dd8-a253-8d9b07cbc90f",
+          "dataType": "@about",
+          "name": "about",
+          "value": "$about",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "IGDTUW starts its session in around august. There are classes from 9am-5pm in five days of week. and students have off on saturday and sunday."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518778505,
+  "fallbackIntent": false,
+  "events": []
+}

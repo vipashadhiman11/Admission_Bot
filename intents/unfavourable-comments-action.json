@@ -1,0 +1,40 @@
+{
+  "id": "295f4fb1-2771-4478-89d1-2a9bb19ef5f6",
+  "name": "unfavourable-comments-action",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "547b1f4d-5f35-4aaf-a883-3644253dd853",
+          "dataType": "@stupid",
+          "name": "stupid",
+          "value": "$stupid",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "My engineers may not feel good about this.",
+            "I am sorry maybe I can improve with time.",
+            "I am sorry, I am learning."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518344354,
+  "fallbackIntent": false,
+  "events": []
+}

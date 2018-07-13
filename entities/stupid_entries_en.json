@@ -1,0 +1,41 @@
+[
+  {
+    "value": "hate",
+    "synonyms": [
+      "hate"
+    ]
+  },
+  {
+    "value": "nonscense",
+    "synonyms": [
+      "nonscense",
+      "shit",
+      "shity"
+    ]
+  },
+  {
+    "value": "bloody",
+    "synonyms": [
+      "bloody"
+    ]
+  },
+  {
+    "value": "stupid",
+    "synonyms": [
+      "stupid",
+      "dullstar",
+      "dumb",
+      "shortsighted",
+      "trivial",
+      "brainless",
+      "pointless",
+      "slow",
+      "idiotic",
+      "dummy",
+      "loser",
+      "sluggish",
+      "mindless",
+      "moron"
+    ]
+  }
+]

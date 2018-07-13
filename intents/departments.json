@@ -1,0 +1,38 @@
+{
+  "id": "08ce6b42-01ec-4ae5-9713-248ec0f6a713",
+  "name": "departments",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "departments_action",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "a6e3eff9-8552-4543-bed8-0cd5020aa968",
+          "required": false,
+          "dataType": "@about",
+          "name": "about",
+          "value": "$about",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "There are 6 departments in total: Applied Science and Humanities, Computer Science and Humanities, Electronics and Communication Engineering, Information Technology, Mechanical and Automation Engineering, Architecture and Planning."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518796434,
+  "fallbackIntent": false,
+  "events": []
+}

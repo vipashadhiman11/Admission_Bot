@@ -1,0 +1,106 @@
+[
+  {
+    "id": "6b73e747-0c02-425e-83cf-5a6c3575f27e",
+    "data": [
+      {
+        "text": "placement status",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518637154
+  },
+  {
+    "id": "4c469f57-0ce0-445d-bdf7-0664d909eacd",
+    "data": [
+      {
+        "text": "placements",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518637154
+  },
+  {
+    "id": "84bf32c9-da64-4e57-9dda-766e6a744a8c",
+    "data": [
+      {
+        "text": "tell me something about its placement",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "aa938cc3-f151-4e9d-9eb0-c4e13087a2ab",
+    "data": [
+      {
+        "text": "what is the placement status of this ",
+        "userDefined": false
+      },
+      {
+        "text": "college",
+        "alias": "about",
+        "meta": "@about",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518637154
+  },
+  {
+    "id": "9b7e1464-1658-4ed3-82f3-a0f3599dc429",
+    "data": [
+      {
+        "text": "how are the placements?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518637154
+  },
+  {
+    "id": "46b5c9a8-31ce-454a-9504-21d02065b1c4",
+    "data": [
+      {
+        "text": "what is the placement scenario?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518637154
+  },
+  {
+    "id": "0cde08ae-f623-4b8e-9cf8-566987607bbf",
+    "data": [
+      {
+        "text": "are the placements of this ",
+        "userDefined": false
+      },
+      {
+        "text": "college",
+        "alias": "about",
+        "meta": "@about",
+        "userDefined": false
+      },
+      {
+        "text": " good?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518637154
+  }
+]

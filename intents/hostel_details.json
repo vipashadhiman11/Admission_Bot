@@ -1,0 +1,38 @@
+{
+  "id": "d489a15a-2689-48bd-92b8-9ba00a9d8d18",
+  "name": "hostel_details",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "hostel_details",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "034aebcf-5c73-424f-9e85-39b7fca88a04",
+          "required": false,
+          "dataType": "@about",
+          "name": "about",
+          "value": "$about",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Hostels of IGDTUW are good. 2 students can live in one room. After 8pm no student is allowed to go out of the hostel. There is no ac in hostels."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518795618,
+  "fallbackIntent": false,
+  "events": []
+}

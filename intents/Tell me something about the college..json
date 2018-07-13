@@ -1,0 +1,48 @@
+{
+  "id": "96f6aa14-d321-487d-b2bf-b18157d369b5",
+  "name": "Tell me something about the college.",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "college_details_action",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "054842c9-856d-4aec-bd0a-7fabf3c87efe",
+          "required": true,
+          "dataType": "@about",
+          "name": "about",
+          "value": "$about",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "About what you want to know?"
+            }
+          ],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Indira Gandhi Delhi Technical University for Women (IGDTUW) has been upgraded from Indira Gandhi Institute of Technology in May 2013 vide Delhi State Legislature Act 9, 2012, as a non-affiliating teaching and research University at Delhi. it aims to facilitate and promote studies, research, technology, innovation, incubation and extension work in emerging areas of professional education among women, with focus on engineering, technology, applied sciences, management and its allied areas with the objective to achieve excellence in these and related fields",
+            "IGDTUW was established in 1998 by Directorate of Training and Technical Education, Govt of N.C.T of Delhi as the first engineering college for women only. From 2002- 2013, the college remained the first and only constituent college of Guru Gobind Singh Indraprastha University.",
+            "It aims to foster an environment for excellence in professional education and ensure active participation of women in the field of Engineering, Science, Management and Technology, while striking out a work-life balance."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518344567,
+  "fallbackIntent": false,
+  "events": []
+}

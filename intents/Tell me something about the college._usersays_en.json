@@ -1,0 +1,252 @@
+[
+  {
+    "id": "0446c1d7-6d4b-48e8-add6-09cab3dce441",
+    "data": [
+      {
+        "text": "tell me someting about the ",
+        "userDefined": false
+      },
+      {
+        "text": "college",
+        "alias": "about",
+        "meta": "@about",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518344567
+  },
+  {
+    "id": "767e56b6-fb23-4cc2-84a2-55d4def4c2ca",
+    "data": [
+      {
+        "text": "what is the rank of igdtu in Delhi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c7ba6047-dfad-4146-9c01-5e3d96e5cb4e",
+    "data": [
+      {
+        "text": "what is ",
+        "userDefined": false
+      },
+      {
+        "text": "igdtu",
+        "alias": "about",
+        "meta": "@about",
+        "userDefined": false
+      },
+      {
+        "text": " w",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "60106b1c-c6c1-4212-8f33-536fc2b9194e",
+    "data": [
+      {
+        "text": "TELL ME OMETHING ABOUT THIS ",
+        "userDefined": false
+      },
+      {
+        "text": "UNIVERSITY",
+        "alias": "about",
+        "meta": "@about",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518344567
+  },
+  {
+    "id": "844ce76e-a16a-47e6-8084-525bef928018",
+    "data": [
+      {
+        "text": "what is igdtu w",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1ac90d8a-d363-4835-88e2-36eff47e1920",
+    "data": [
+      {
+        "text": "tell me soething",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518344567
+  },
+  {
+    "id": "a6b746b1-4871-4db5-98ab-f78c4de9aae4",
+    "data": [
+      {
+        "text": "tell me something about the ",
+        "userDefined": false
+      },
+      {
+        "text": "college",
+        "alias": "about",
+        "meta": "@about",
+        "userDefined": true
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518344567
+  },
+  {
+    "id": "c5561f84-feda-4fa9-b246-eb21e3793593",
+    "data": [
+      {
+        "text": "tell me someting about this ",
+        "userDefined": false
+      },
+      {
+        "text": "university",
+        "alias": "about",
+        "meta": "@about",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518344567
+  },
+  {
+    "id": "be1efae0-8e85-4562-bf01-7dda0f61a367",
+    "data": [
+      {
+        "text": "can you tell me someting about this ",
+        "userDefined": false
+      },
+      {
+        "text": "university",
+        "alias": "about",
+        "meta": "@about",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518344567
+  },
+  {
+    "id": "2f331883-10f1-4407-bab4-6f3585a81cec",
+    "data": [
+      {
+        "text": "it seems a good ",
+        "userDefined": false
+      },
+      {
+        "text": "college",
+        "alias": "about",
+        "meta": "@about",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "06a2ed3b-3781-4b57-994a-29e7f2d5a931",
+    "data": [
+      {
+        "text": "tell me soething",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b6dde7ec-dc9d-4990-8ac0-0b281b694102",
+    "data": [
+      {
+        "text": "tell me someting about this ",
+        "userDefined": false
+      },
+      {
+        "text": "university",
+        "alias": "about",
+        "meta": "@about",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518344567
+  },
+  {
+    "id": "04f1036f-08a3-4d6b-9b89-0c1714ff48dc",
+    "data": [
+      {
+        "text": "what is the rank of ",
+        "userDefined": false
+      },
+      {
+        "text": "igdtu",
+        "alias": "about",
+        "meta": "@about",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Delhi",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "35c96831-57d7-4bf6-aa0e-c4f58c598cce",
+    "data": [
+      {
+        "text": "i want to know about this ",
+        "userDefined": false
+      },
+      {
+        "text": "college",
+        "alias": "about",
+        "meta": "@about",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

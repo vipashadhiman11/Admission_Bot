@@ -1,0 +1,38 @@
+{
+  "id": "8bc3d284-02c9-44b4-8825-5c50a84043f3",
+  "name": "fests and societies.",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "socites",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "853e2c3a-84f3-469d-99e2-ff0a3feb8e71",
+          "required": false,
+          "dataType": "@about",
+          "name": "about",
+          "value": "$about",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Use this link to find about this: http://www.igdtuw.ac.in/images/stories/admission%20downloads/admissions%202017/extracurricular%20activities.pdf"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518795798,
+  "fallbackIntent": false,
+  "events": []
+}

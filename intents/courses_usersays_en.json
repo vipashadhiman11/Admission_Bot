@@ -1,0 +1,56 @@
+[
+  {
+    "id": "c4b674d6-6421-428a-89fe-364c18ee2a15",
+    "data": [
+      {
+        "text": "courses",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518347797
+  },
+  {
+    "id": "beb99eb5-3bd8-4dac-992c-ba3cb5f6693f",
+    "data": [
+      {
+        "text": "tell me about the courses",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518347797
+  },
+  {
+    "id": "32d8ea18-b254-4b36-91e2-2ae06a3a5b55",
+    "data": [
+      {
+        "text": "tell me about the courses of this ",
+        "userDefined": false
+      },
+      {
+        "text": "college",
+        "alias": "course",
+        "meta": "@about",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518347797
+  },
+  {
+    "id": "db2fa4bf-8298-41e6-b4f4-e54688d25385",
+    "data": [
+      {
+        "text": "what all courses run under this college?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518347797
+  }
+]

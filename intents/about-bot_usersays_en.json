@@ -1,0 +1,74 @@
+[
+  {
+    "id": "931a3fef-caa5-4191-8307-21015d5209a0",
+    "data": [
+      {
+        "text": "for what can i use you ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518634799
+  },
+  {
+    "id": "72caca20-c4fc-4f31-87d1-d921aa55f9da",
+    "data": [
+      {
+        "text": "what can you do?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518634799
+  },
+  {
+    "id": "d795bdfe-5613-4b07-b47b-595ab422662f",
+    "data": [
+      {
+        "text": "what you do?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518634799
+  },
+  {
+    "id": "baa0a68b-6fe6-42a0-862c-97ea8360854d",
+    "data": [
+      {
+        "text": "who are you?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518634799
+  },
+  {
+    "id": "2b52c03a-1fc7-454c-a953-1654381392be",
+    "data": [
+      {
+        "text": "tell me about yourself",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518634799
+  },
+  {
+    "id": "c92a244f-0c20-4541-829a-fa5d4a941394",
+    "data": [
+      {
+        "text": "what is your name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

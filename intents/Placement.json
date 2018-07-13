@@ -1,0 +1,43 @@
+{
+  "id": "c8010c27-85c3-48c8-86e8-cc0a84073890",
+  "name": "Placement",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "placements",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "3d7ab9ee-b87f-46ff-a629-acf9f34affe4",
+          "required": false,
+          "dataType": "@about",
+          "name": "about",
+          "value": "$about",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Placements of igdtuw are really good. You can visit to this link for detailed information.( http://www.igdtuw.ac.in/index.php?option\u003dcom_content\u0026view\u003darticle\u0026id\u003d536\u0026Itemid\u003d824 )",
+            "The University T\u0026P Cell facilitates multiple job offers to the eligible students of IGDTUW year after year. You can visit to this link for detailed information.( http://www.igdtuw.ac.in/index.php?option\u003dcom_content\u0026view\u003darticle\u0026id\u003d536\u0026Itemid\u003d824 )",
+            "Most of the top companies like Microsoft, Amazon, Intuit, Adobe, Expedia visit the campus. You can visit to this link for detailed information.( http://www.igdtuw.ac.in/index.php?option\u003dcom_content\u0026view\u003darticle\u0026id\u003d536\u0026Itemid\u003d824 )",
+            "During the recruitment drive around 52 companies visited the campus. To name a few prestigious companies like Microsoft, Adobe, Cisco, SAP Labs, Oracle, Qualcomm, Mahindra \u0026 Mahindra, General Motors, Cognizant, Aricent, Tata Consultancy Services, Yamaha Motors, Hindustan Unilever, IBM India visit IGDTUW campus for placements and internships. You can visit to this link for detailed information.( http://www.igdtuw.ac.in/index.php?option\u003dcom_content\u0026view\u003darticle\u0026id\u003d536\u0026Itemid\u003d824 )"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518637154,
+  "fallbackIntent": false,
+  "events": []
+}

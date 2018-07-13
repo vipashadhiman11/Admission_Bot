@@ -1,0 +1,60 @@
+[
+  {
+    "id": "f231e1ae-955c-445c-a8bc-7b6458f20c09",
+    "data": [
+      {
+        "text": "what is the eligibility criteria of this ",
+        "userDefined": false
+      },
+      {
+        "text": "college",
+        "alias": "about",
+        "meta": "@about",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518626172
+  },
+  {
+    "id": "ce057026-7831-4327-8f69-1e07dd8583f8",
+    "data": [
+      {
+        "text": "what is the eligibility criteria?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518626172
+  },
+  {
+    "id": "bbe7dc2a-0d76-4120-8db1-5c7a225349f1",
+    "data": [
+      {
+        "text": "who all are eligible for the admission?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518626172
+  },
+  {
+    "id": "238cd3b2-5c0c-4422-8d12-be94b696eb07",
+    "data": [
+      {
+        "text": "eligibility criteria",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518626172
+  }
+]

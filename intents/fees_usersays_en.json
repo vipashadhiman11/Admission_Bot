@@ -1,0 +1,106 @@
+[
+  {
+    "id": "d809e894-3232-43eb-8e93-9e18aef6528f",
+    "data": [
+      {
+        "text": "tell me about the fees structure of ",
+        "userDefined": false
+      },
+      {
+        "text": "igdtuw",
+        "alias": "about",
+        "meta": "@about",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518783084
+  },
+  {
+    "id": "777813e8-43bc-4eb4-9588-870db7cec908",
+    "data": [
+      {
+        "text": "what is the hostel fee?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518795668
+  },
+  {
+    "id": "27f50121-f029-4185-8708-68d11c3baca4",
+    "data": [
+      {
+        "text": "hostel fees",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518795668
+  },
+  {
+    "id": "2b608561-bf0e-4c54-b2f4-1a4d3bffb4dc",
+    "data": [
+      {
+        "text": "fees structure",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518783084
+  },
+  {
+    "id": "4b93ca31-9ab6-452b-a45e-a90c5708551a",
+    "data": [
+      {
+        "text": "fees",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518783084
+  },
+  {
+    "id": "c5f22039-a22b-404a-a71e-0579e53e8112",
+    "data": [
+      {
+        "text": "what is the fees structure of ",
+        "userDefined": false
+      },
+      {
+        "text": "igdtuw",
+        "alias": "about",
+        "meta": "@about",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518783084
+  },
+  {
+    "id": "e363320e-8332-4574-b825-fc5554c9e06f",
+    "data": [
+      {
+        "text": "fee structure",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518783084
+  }
+]

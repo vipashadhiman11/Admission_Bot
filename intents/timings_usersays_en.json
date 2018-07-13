@@ -1,0 +1,124 @@
+[
+  {
+    "id": "b4d8b4f8-5fc6-42ce-a0e8-4ed8f36a2a63",
+    "data": [
+      {
+        "text": "is Saturday off and ",
+        "userDefined": false
+      },
+      {
+        "text": "igdtu",
+        "alias": "about",
+        "meta": "@about",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a0ef7517-36c8-4e6e-b4e4-e2db2694f667",
+    "data": [
+      {
+        "text": "number of days the college is opened",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1b6404aa-048c-4ea3-a155-54440b9dbb2b",
+    "data": [
+      {
+        "text": "around what time the session starts",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7e2e91e1-eaa6-47d8-bf09-86e3e41a386a",
+    "data": [
+      {
+        "text": "what are the timings of ",
+        "userDefined": false
+      },
+      {
+        "text": "igdtuw",
+        "alias": "about",
+        "meta": "@about",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518778505
+  },
+  {
+    "id": "318831a1-5218-46a9-b799-5765371237f0",
+    "data": [
+      {
+        "text": "around what time the new session starts",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "30072bfc-0fa3-4d5a-a51a-d516cb195c25",
+    "data": [
+      {
+        "text": "around what time the new session starts",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e48c8059-9b02-4bec-8bc5-aac95f540644",
+    "data": [
+      {
+        "text": "around what time the session starts",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cd134d49-654a-448a-bb59-96754a9299e2",
+    "data": [
+      {
+        "text": "number of days the ",
+        "userDefined": false
+      },
+      {
+        "text": "college",
+        "alias": "about",
+        "meta": "@about",
+        "userDefined": false
+      },
+      {
+        "text": " is opened",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]
